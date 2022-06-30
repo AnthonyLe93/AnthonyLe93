@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnthonyLe93
+# 👋 Hi, I’m Anthony Le
 - 👀 I’m interested in AI, Machine learning, light driven robots, soft robots and trustworthy autonomous systems
-- 🌱 I’m currently learning python, C, C++, Matlab.
+- 🌱 I can use python, C, C++, Matlab.
 - 💞️ I’m looking to collaborate on all things AI and robots related
 - 📫 How to reach me anthony.le@bristol.ac.uk
 
